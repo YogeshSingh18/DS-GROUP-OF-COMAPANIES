@@ -1,0 +1,201 @@
+
+.form-bg{
+    background-image: url(img2/3.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    border-radius: 20px;
+    color: #000000;
+}
+.sec-icon {
+    font-size: 40px;
+    color: #fff;
+}
+
+.clo{
+    background-color: #cc7532;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.about {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.wel {
+    background: #ff7373;
+    font-size: 22px;
+    padding: 4px 20px 4px 20px;
+    border-radius: 4px;
+    margin-bottom: 4px;
+}
+
+.ab {
+    font-size: 38px;
+}
+
+.abp {
+    font-size: 17px;
+    text-align: justify;
+}
+
+
+
+/* gallery css */
+
+
+.foot-icon {
+    font-size: 22px;
+    color: #fff;
+    background: #fc5c2a;
+    padding: 8px;
+    border-radius: 5px;
+
+}
+
+/* Home End */
+
+/* Aboust Start */
+
+.div1 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.btn {
+    border: none;
+    background: #28dafa;
+    color: #fff;
+    padding: 5px 15px 5px 15px;
+    border-radius: 5px;
+    font-weight: 700;
+}
+
+.abc {
+    color: aqua;
+}
+
+.h2 {
+    text-align: center;
+    color: coral;
+    padding-top: 21px;
+
+}
+
+
+
+
+/* card bg color */
+.card-bg{
+    background: #e89c69;
+    border: none;
+    border-radius: 14px;
+}
+
+.maap{
+    border-radius: 15px;
+}
+
+/* table image */
+.image-table{
+    border-radius: 25px;
+}
+
+
+.heading-table{
+    background: #66ff96;
+    color: #fff;
+    text-align: center;
+}
+
+
+
+.specialt-background{
+    text-align: center;
+    color: #000000;
+    background-image: url(img/table.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover
+
+}
+
+
+
+.pa-font{
+    font-size: 18px;
+    
+    
+}
+
+.bg-bg{
+    background-color: #FFF5B8;
+}
+
+
+
+.abcontainer{
+    margin: 0 15%  0  8%;
+}
+.aboutimg{
+    margin-top: 16%;
+    margin-left: 5%;
+  
+}
+
+
+.imgab{
+    border-radius: 5%;
+   
+}
+
+
+.galcontainer{
+    margin: 0 8%  0  8%;
+}
+
+
+
+/* Testimonial start */
+.testimonials {
+    padding: 100px 0;
+  }
+  .testimonials h3 {
+    margin-bottom: 20px;
+  }
+  .testimonials .card {
+    border-bottom: 3px #007bff solid !important;
+    transition: 0.5s;
+    margin-top: 60px;
+  }
+  .testimonials .card i {
+    background-color: #007bff;
+    color: #ffffff;
+    width: 75px;
+    height: 75px;
+    line-height: 75px;
+    margin: -40px auto 0 auto;
+  }
+
+
+
+  .imgab:hover{
+    border-radius: 5%;
+    height: 300px;
+   
+   
+}
+
+
+.imggal{
+    border-radius: 5%;
+
+}
+
+.imggal:hover{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    
+   
+ 
+}
